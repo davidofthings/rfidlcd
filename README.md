@@ -4,10 +4,11 @@ Components:
 
 - Breadboard
 - Raspberry Pi 3 Model B
-- Potentiometer
+- 10k Potentiometer
 - 3-6v Buzzer
 - LED
 - 330 Ohm Resistor
+- HD44780 16x2 LCD Display
 
 ## Requirements
 
