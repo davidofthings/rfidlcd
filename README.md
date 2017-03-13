@@ -2,6 +2,7 @@ Building a project to display ID's using MIFARE 1k tags to LCD (w/ Potentiometer
 
 Components:
 
+- MFRC-522 RFID Reader
 - Breadboard
 - Raspberry Pi 3 Model B
 - 10k Potentiometer
